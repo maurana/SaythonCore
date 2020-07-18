@@ -1,0 +1,8 @@
+E:\Bisnis\Microservices\Saython\SaythonFramework\Saython_Data_Scientist\bin\Debug\netcoreapp3.1\Saython_Data_Scientist.deps.json
+E:\Bisnis\Microservices\Saython\SaythonFramework\Saython_Data_Scientist\bin\Debug\netcoreapp3.1\Saython_Data_Scientist.dll
+E:\Bisnis\Microservices\Saython\SaythonFramework\Saython_Data_Scientist\bin\Debug\netcoreapp3.1\Saython_Data_Scientist.pdb
+E:\Bisnis\Microservices\Saython\SaythonFramework\Saython_Data_Scientist\obj\Debug\netcoreapp3.1\Saython_Data_Scientist.csprojAssemblyReference.cache
+E:\Bisnis\Microservices\Saython\SaythonFramework\Saython_Data_Scientist\obj\Debug\netcoreapp3.1\Saython_Data_Scientist.AssemblyInfoInputs.cache
+E:\Bisnis\Microservices\Saython\SaythonFramework\Saython_Data_Scientist\obj\Debug\netcoreapp3.1\Saython_Data_Scientist.AssemblyInfo.cs
+E:\Bisnis\Microservices\Saython\SaythonFramework\Saython_Data_Scientist\obj\Debug\netcoreapp3.1\Saython_Data_Scientist.dll
+E:\Bisnis\Microservices\Saython\SaythonFramework\Saython_Data_Scientist\obj\Debug\netcoreapp3.1\Saython_Data_Scientist.pdb

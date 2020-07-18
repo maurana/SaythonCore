@@ -1,0 +1,16 @@
+E:\Bisnis\Microservices\Saython\SaythonFramework\SaythonLibrary\bin\Debug\netcoreapp3.1\SaythonLibrary.deps.json
+E:\Bisnis\Microservices\Saython\SaythonFramework\SaythonLibrary\bin\Debug\netcoreapp3.1\SaythonLibrary.dll
+E:\Bisnis\Microservices\Saython\SaythonFramework\SaythonLibrary\bin\Debug\netcoreapp3.1\SaythonLibrary.pdb
+E:\Bisnis\Microservices\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.csprojAssemblyReference.cache
+E:\Bisnis\Microservices\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.AssemblyInfoInputs.cache
+E:\Bisnis\Microservices\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.AssemblyInfo.cs
+E:\Bisnis\Microservices\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.dll
+E:\Bisnis\Microservices\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.pdb
+E:\Bisnis\Microservices\C#\Saython\SaythonFramework\SaythonLibrary\bin\Debug\netcoreapp3.1\SaythonLibrary.deps.json
+E:\Bisnis\Microservices\C#\Saython\SaythonFramework\SaythonLibrary\bin\Debug\netcoreapp3.1\SaythonLibrary.dll
+E:\Bisnis\Microservices\C#\Saython\SaythonFramework\SaythonLibrary\bin\Debug\netcoreapp3.1\SaythonLibrary.pdb
+E:\Bisnis\Microservices\C#\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.csprojAssemblyReference.cache
+E:\Bisnis\Microservices\C#\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.AssemblyInfoInputs.cache
+E:\Bisnis\Microservices\C#\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.AssemblyInfo.cs
+E:\Bisnis\Microservices\C#\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.dll
+E:\Bisnis\Microservices\C#\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.pdb

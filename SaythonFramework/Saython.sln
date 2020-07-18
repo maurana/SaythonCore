@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaythonFramework", "SaythonFramework\SaythonFramework.csproj", "{7D19906C-5C25-4C48-AAD2-9B6F86339C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaythonLibrary", "SaythonLibrary\SaythonLibrary.csproj", "{90EF6567-46DD-4D4B-BA49-7BE886A9142F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saython_Artificial_Intelligence", "Saython_Artificial_Intelligence\Saython_Artificial_Intelligence.csproj", "{9BE79AD9-33D1-4F55-B673-3C0AF0B01310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saython_Machine_Learning", "Saython_Machine_Learning\Saython_Machine_Learning.csproj", "{FD9EEA18-AF72-431C-9B31-8206BF52BF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saython_Data_Scientist", "Saython_Data_Scientist\Saython_Data_Scientist.csproj", "{5A8E7CE8-F302-4F0F-8C56-D339F0553200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D19906C-5C25-4C48-AAD2-9B6F86339C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D19906C-5C25-4C48-AAD2-9B6F86339C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D19906C-5C25-4C48-AAD2-9B6F86339C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D19906C-5C25-4C48-AAD2-9B6F86339C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90EF6567-46DD-4D4B-BA49-7BE886A9142F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EF6567-46DD-4D4B-BA49-7BE886A9142F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EF6567-46DD-4D4B-BA49-7BE886A9142F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EF6567-46DD-4D4B-BA49-7BE886A9142F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE79AD9-33D1-4F55-B673-3C0AF0B01310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE79AD9-33D1-4F55-B673-3C0AF0B01310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE79AD9-33D1-4F55-B673-3C0AF0B01310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE79AD9-33D1-4F55-B673-3C0AF0B01310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD9EEA18-AF72-431C-9B31-8206BF52BF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9EEA18-AF72-431C-9B31-8206BF52BF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9EEA18-AF72-431C-9B31-8206BF52BF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9EEA18-AF72-431C-9B31-8206BF52BF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8E7CE8-F302-4F0F-8C56-D339F0553200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8E7CE8-F302-4F0F-8C56-D339F0553200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8E7CE8-F302-4F0F-8C56-D339F0553200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8E7CE8-F302-4F0F-8C56-D339F0553200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BB9EEC7-A092-4F00-B4F7-50AA7935B74E}
+	EndGlobalSection
+EndGlobal
