@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Bisnis\\Microservices\\Saython\\SaythonFramework\\Saython_Data_Scientist\\Saython_Data_Scientist.csproj": {}
+    "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\Saython_Data_Scientist\\Saython_Data_Scientist.csproj": {}
   },
   "projects": {
-    "E:\\Bisnis\\Microservices\\Saython\\SaythonFramework\\Saython_Data_Scientist\\Saython_Data_Scientist.csproj": {
+    "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\Saython_Data_Scientist\\Saython_Data_Scientist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Bisnis\\Microservices\\Saython\\SaythonFramework\\Saython_Data_Scientist\\Saython_Data_Scientist.csproj",
+        "projectUniqueName": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\Saython_Data_Scientist\\Saython_Data_Scientist.csproj",
         "projectName": "Saython_Data_Scientist",
-        "projectPath": "E:\\Bisnis\\Microservices\\Saython\\SaythonFramework\\Saython_Data_Scientist\\Saython_Data_Scientist.csproj",
+        "projectPath": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\Saython_Data_Scientist\\Saython_Data_Scientist.csproj",
         "packagesPath": "C:\\Users\\Fujitsu\\.nuget\\packages\\",
-        "outputPath": "E:\\Bisnis\\Microservices\\Saython\\SaythonFramework\\Saython_Data_Scientist\\obj\\",
+        "outputPath": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\Saython_Data_Scientist\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

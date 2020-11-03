@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Bisnis\\Microservices\\C#\\Saython\\SaythonFramework\\SaythonLibrary\\SaythonLibrary.csproj": {}
+    "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\SaythonLibrary\\SaythonLibrary.csproj": {}
   },
   "projects": {
-    "E:\\Bisnis\\Microservices\\C#\\Saython\\SaythonFramework\\SaythonLibrary\\SaythonLibrary.csproj": {
+    "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\SaythonLibrary\\SaythonLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Bisnis\\Microservices\\C#\\Saython\\SaythonFramework\\SaythonLibrary\\SaythonLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\SaythonLibrary\\SaythonLibrary.csproj",
         "projectName": "SaythonLibrary",
-        "projectPath": "E:\\Bisnis\\Microservices\\C#\\Saython\\SaythonFramework\\SaythonLibrary\\SaythonLibrary.csproj",
+        "projectPath": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\SaythonLibrary\\SaythonLibrary.csproj",
         "packagesPath": "C:\\Users\\Fujitsu\\.nuget\\packages\\",
-        "outputPath": "E:\\Bisnis\\Microservices\\C#\\Saython\\SaythonFramework\\SaythonLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\SaythonLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

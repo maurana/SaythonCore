@@ -5430,11 +5430,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Bisnis\\Microservices\\Saython\\SaythonFramework\\Saython_Machine_Learning\\Saython_Machine_Learning.csproj",
+      "projectUniqueName": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\Saython_Machine_Learning\\Saython_Machine_Learning.csproj",
       "projectName": "Saython_Machine_Learning",
-      "projectPath": "E:\\Bisnis\\Microservices\\Saython\\SaythonFramework\\Saython_Machine_Learning\\Saython_Machine_Learning.csproj",
+      "projectPath": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\Saython_Machine_Learning\\Saython_Machine_Learning.csproj",
       "packagesPath": "C:\\Users\\Fujitsu\\.nuget\\packages\\",
-      "outputPath": "E:\\Bisnis\\Microservices\\Saython\\SaythonFramework\\Saython_Machine_Learning\\obj\\",
+      "outputPath": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\Saython_Machine_Learning\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

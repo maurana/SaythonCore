@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Bisnis\\Microservices\\Saython\\SaythonFramework\\Saython_Artificial_Intelligence\\Saython_Artificial_Intelligence.csproj",
+      "projectUniqueName": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\Saython_Artificial_Intelligence\\Saython_Artificial_Intelligence.csproj",
       "projectName": "Saython_Artificial_Intelligence",
-      "projectPath": "E:\\Bisnis\\Microservices\\Saython\\SaythonFramework\\Saython_Artificial_Intelligence\\Saython_Artificial_Intelligence.csproj",
+      "projectPath": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\Saython_Artificial_Intelligence\\Saython_Artificial_Intelligence.csproj",
       "packagesPath": "C:\\Users\\Fujitsu\\.nuget\\packages\\",
-      "outputPath": "E:\\Bisnis\\Microservices\\Saython\\SaythonFramework\\Saython_Artificial_Intelligence\\obj\\",
+      "outputPath": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\Saython_Artificial_Intelligence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

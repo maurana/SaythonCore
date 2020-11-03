@@ -14,3 +14,11 @@ E:\Bisnis\Microservices\C#\Saython\SaythonFramework\SaythonLibrary\obj\Debug\net
 E:\Bisnis\Microservices\C#\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.AssemblyInfo.cs
 E:\Bisnis\Microservices\C#\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.dll
 E:\Bisnis\Microservices\C#\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.pdb
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\SaythonLibrary\bin\Debug\netcoreapp3.1\SaythonLibrary.deps.json
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\SaythonLibrary\bin\Debug\netcoreapp3.1\SaythonLibrary.dll
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\SaythonLibrary\bin\Debug\netcoreapp3.1\SaythonLibrary.pdb
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.csprojAssemblyReference.cache
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.AssemblyInfoInputs.cache
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.AssemblyInfo.cs
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.dll
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\SaythonLibrary\obj\Debug\netcoreapp3.1\SaythonLibrary.pdb

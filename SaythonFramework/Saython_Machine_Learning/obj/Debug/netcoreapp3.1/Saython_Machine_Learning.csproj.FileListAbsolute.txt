@@ -6,3 +6,11 @@ E:\Bisnis\Microservices\Saython\SaythonFramework\Saython_Machine_Learning\obj\De
 E:\Bisnis\Microservices\Saython\SaythonFramework\Saython_Machine_Learning\obj\Debug\netcoreapp3.1\Saython_Machine_Learning.AssemblyInfo.cs
 E:\Bisnis\Microservices\Saython\SaythonFramework\Saython_Machine_Learning\obj\Debug\netcoreapp3.1\Saython_Machine_Learning.dll
 E:\Bisnis\Microservices\Saython\SaythonFramework\Saython_Machine_Learning\obj\Debug\netcoreapp3.1\Saython_Machine_Learning.pdb
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\Saython_Machine_Learning\bin\Debug\netcoreapp3.1\Saython_Machine_Learning.deps.json
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\Saython_Machine_Learning\bin\Debug\netcoreapp3.1\Saython_Machine_Learning.dll
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\Saython_Machine_Learning\bin\Debug\netcoreapp3.1\Saython_Machine_Learning.pdb
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\Saython_Machine_Learning\obj\Debug\netcoreapp3.1\Saython_Machine_Learning.csprojAssemblyReference.cache
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\Saython_Machine_Learning\obj\Debug\netcoreapp3.1\Saython_Machine_Learning.AssemblyInfoInputs.cache
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\Saython_Machine_Learning\obj\Debug\netcoreapp3.1\Saython_Machine_Learning.AssemblyInfo.cs
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\Saython_Machine_Learning\obj\Debug\netcoreapp3.1\Saython_Machine_Learning.dll
+C:\Users\Fujitsu\Documents\WacaraStartup\Saython\SaythonFramework\Saython_Machine_Learning\obj\Debug\netcoreapp3.1\Saython_Machine_Learning.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Bisnis\\Microservices\\C#\\Saython\\SaythonFramework\\SaythonFramework\\SaythonFramework.csproj": {}
+    "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\SaythonFramework\\SaythonFramework.csproj": {}
   },
   "projects": {
-    "E:\\Bisnis\\Microservices\\C#\\Saython\\SaythonFramework\\SaythonFramework\\SaythonFramework.csproj": {
+    "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\SaythonFramework\\SaythonFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Bisnis\\Microservices\\C#\\Saython\\SaythonFramework\\SaythonFramework\\SaythonFramework.csproj",
+        "projectUniqueName": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\SaythonFramework\\SaythonFramework.csproj",
         "projectName": "SaythonFramework",
-        "projectPath": "E:\\Bisnis\\Microservices\\C#\\Saython\\SaythonFramework\\SaythonFramework\\SaythonFramework.csproj",
+        "projectPath": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\SaythonFramework\\SaythonFramework.csproj",
         "packagesPath": "C:\\Users\\Fujitsu\\.nuget\\packages\\",
-        "outputPath": "E:\\Bisnis\\Microservices\\C#\\Saython\\SaythonFramework\\SaythonFramework\\obj\\",
+        "outputPath": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\Saython\\SaythonFramework\\SaythonFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.11.3, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.3, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[8.0.20, )"
@@ -56,6 +64,10 @@
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.1, )"
+            },
+            "mongocsharpdriver": {
+              "target": "Package",
+              "version": "[2.11.3, )"
             }
           },
           "imports": [
