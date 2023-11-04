@@ -7,12 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaythonFramework", "Saython
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaythonLibrary", "SaythonLibrary\SaythonLibrary.csproj", "{90EF6567-46DD-4D4B-BA49-7BE886A9142F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saython_Artificial_Intelligence", "Saython_Artificial_Intelligence\Saython_Artificial_Intelligence.csproj", "{9BE79AD9-33D1-4F55-B673-3C0AF0B01310}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saython_Machine_Learning", "Saython_Machine_Learning\Saython_Machine_Learning.csproj", "{FD9EEA18-AF72-431C-9B31-8206BF52BF52}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saython_Data_Scientist", "Saython_Data_Scientist\Saython_Data_Scientist.csproj", "{5A8E7CE8-F302-4F0F-8C56-D339F0553200}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
